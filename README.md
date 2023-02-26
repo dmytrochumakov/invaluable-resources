@@ -17,9 +17,19 @@
 ### Domain-Driven Design
 [Domain-Driven Design: Tackling Complexity in the Heart of Software 📚][dddBook]
 
+
+<details>
+  <summary>:infinity:</summary>
+ 
+<!--START_SECTION:activity--> 
+
 ### System Design
 [System Design Interview – An insider's guide 📚][systemDesignInterviewBookVolumeOne] 
 [System Design Interview – An Insider's Guide: Volume 2 📚][systemDesignInterviewBookVolumeTwo]
+ 
+<!--END_SECTION:activity-->
+
+</details>
 
 ### Continuous Architecture
 [Continuous Architecture in Practice: Software Architecture in the Age of Agility and DevOps 📚][continuousArchitectureInPracticeBook]
