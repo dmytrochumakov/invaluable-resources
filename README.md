@@ -20,6 +20,7 @@
 ### System Design Interview
 
 <details>
+ <summary></summary>
 
 <!--START_SECTION:activity--> 
 
