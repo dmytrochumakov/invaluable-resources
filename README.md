@@ -7,13 +7,33 @@
 [Test Driven Development: By Example 📚][tddBook]
 
 ### Refactoring
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
 [Refactoring to Patterns 📚][refactoringToPatternsBook]\
 [Refactoring: Improving the Design of Existing Code 📚][refactoringBook] 
 
+<!--END_SECTION:activity-->
+
+</details>
+
 ### Design Patterns
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
 [A Pattern Language 📚][aPatternLanguageBook]\
 [Design Patterns: Elements of Reusable Object-Oriented Software 📚][designPatternsBook] 
  
+<!--END_SECTION:activity-->
+
+</details>
+
 ### Domain-Driven Design
 [Domain-Driven Design: Tackling Complexity in the Heart of Software 📚][dddBook]
 
