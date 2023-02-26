@@ -24,8 +24,11 @@
 
 <!--START_SECTION:activity--> 
 
-[System Design Interview – An insider's guide 📚][systemDesignInterviewBookVolumeOne] 
-[System Design Interview – An Insider's Guide: Volume 2 📚][systemDesignInterviewBookVolumeTwo]
+Resource                    | 
+------------------------- |
+
+[System Design Interview – An insider's guide 📚][systemDesignInterviewBookVolumeOne] |
+[System Design Interview – An Insider's Guide: Volume 2 📚][systemDesignInterviewBookVolumeTwo] |
  
 <!--END_SECTION:activity-->
 
