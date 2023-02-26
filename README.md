@@ -20,8 +20,7 @@
 ### System Design Interview
 
 <details>
-  <summary>:infinity:</summary>
- 
+
 <!--START_SECTION:activity--> 
 
 [System Design Interview – An insider's guide 📚][systemDesignInterviewBookVolumeOne] 
