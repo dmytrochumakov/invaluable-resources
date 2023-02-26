@@ -35,8 +35,18 @@
 [Continuous Architecture in Practice: Software Architecture in the Age of Agility and DevOps 📚][continuousArchitectureInPracticeBook]
 
 ### Architecture
-[Software Architecture: From Fundamentals to the Hard Parts][softwareArchitectureFromFundamentalsToTheHardPartsJournal]
 
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[Software Architecture: From Fundamentals to the Hard Parts][softwareArchitectureFromFundamentalsToTheHardPartsJournalPost]
+[Debugging Architects][debuggingArchitectsBlogArticle]
+ 
+<!--END_SECTION:activity-->
+
+</details>
 
 -------------------------------------------------------------------------------- 
 
@@ -50,5 +60,7 @@
 [systemDesignInterviewBookVolumeOne]: https://lnkd.in/dpCzHe6p
 [systemDesignInterviewBookVolumeTwo]: https://lnkd.in/dcS3KdeB
 [continuousArchitectureInPracticeBook]: https://lnkd.in/eCiJx8pd
-[softwareArchitectureFromFundamentalsToTheHardPartsJournal]: https://techleadjournal.dev/episodes/120/
+[softwareArchitectureFromFundamentalsToTheHardPartsJournalPost]: https://techleadjournal.dev/episodes/120/
+[debuggingArchitectsBlogArticle]: https://architectelevator.com/transformation/debugging-architect
+
 
