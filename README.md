@@ -41,7 +41,7 @@
 
 <!--START_SECTION:activity--> 
 
-[Software Architecture: From Fundamentals to the Hard Parts][softwareArchitectureFromFundamentalsToTheHardPartsJournalPost]
+[Software Architecture: From Fundamentals to the Hard Parts][softwareArchitectureFromFundamentalsToTheHardPartsJournalPost]\
 [Debugging Architects][debuggingArchitectsBlogArticle]
  
 <!--END_SECTION:activity-->
