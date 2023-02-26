@@ -18,7 +18,8 @@
 [Domain-Driven Design: Tackling Complexity in the Heart of Software 📚][dddBook]
 
 ### System Design
-[System Design Interview – An insider's guide 📚][systemDesignInterviewBookFirstEdition] 
+[System Design Interview – An insider's guide 📚][systemDesignInterviewBookVolumeOne] 
+[System Design Interview – An Insider's Guide: Volume 2 📚][systemDesignInterviewBookVolumeTwo]
 
 ### Continuous Architecture
 [Continuous Architecture in Practice: Software Architecture in the Age of Agility and DevOps 📚][continuousArchitectureInPracticeBook]
@@ -33,6 +34,6 @@
 [designPatternsBook]: https://lnkd.in/dgRwD7V8
 [aPatternLanguageBook]: https://lnkd.in/dihPV9XN
 [dddBook]: https://t.co/TafLmskc2Z
-[systemDesignInterviewBookFirstEdition]: https://lnkd.in/dpCzHe6p
-[systemDesignInterviewBookSecondEdition]: https://lnkd.in/dcS3KdeB
+[systemDesignInterviewBookVolumeOne]: https://lnkd.in/dpCzHe6p
+[systemDesignInterviewBookVolumeTwo]: https://lnkd.in/dcS3KdeB
 [continuousArchitectureInPracticeBook]: https://lnkd.in/eCiJx8pd
