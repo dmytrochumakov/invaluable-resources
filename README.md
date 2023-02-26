@@ -1,4 +1,4 @@
-## Invaluable resources
+# Invaluable resources
 
 ### Agile
 [Clean Agile: Back to Basics 📚][cleanAgileBook]
