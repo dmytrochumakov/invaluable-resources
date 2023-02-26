@@ -34,6 +34,9 @@
 ### Continuous Architecture
 [Continuous Architecture in Practice: Software Architecture in the Age of Agility and DevOps 📚][continuousArchitectureInPracticeBook]
 
+### Architecture
+[Software Architecture: From Fundamentals to the Hard Parts][softwareArchitectureFromFundamentalsToTheHardPartsJournal]
+
 
 -------------------------------------------------------------------------------- 
 
@@ -47,3 +50,5 @@
 [systemDesignInterviewBookVolumeOne]: https://lnkd.in/dpCzHe6p
 [systemDesignInterviewBookVolumeTwo]: https://lnkd.in/dcS3KdeB
 [continuousArchitectureInPracticeBook]: https://lnkd.in/eCiJx8pd
+[softwareArchitectureFromFundamentalsToTheHardPartsJournal]: https://techleadjournal.dev/episodes/120/
+
