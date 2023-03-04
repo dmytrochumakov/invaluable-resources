@@ -70,6 +70,19 @@
 
 </details>
 
+### Engineering
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[Software Engineering at Google 📚 ][softwareEngineeringAtGoogleBook]
+ 
+<!--END_SECTION:activity-->
+
+</details>
+
 -------------------------------------------------------------------------------- 
 
 [cleanAgileBook]: https://lnkd.in/dTNr6577
@@ -84,5 +97,6 @@
 [softwareArchitectureFromFundamentalsToTheHardPartsJournalPost]: https://techleadjournal.dev/episodes/120/
 [debuggingArchitectsBlogArticle]: https://architectelevator.com/transformation/debugging-architect
 [bddInActionBook]: https://www.oreilly.com/library/view/bdd-in-action/9781617291654
+[softwareEngineeringAtGoogleBook]: https://www.oreilly.com/library/view/software-engineering-at/9781492082781
 
 
