@@ -99,6 +99,6 @@
 [debuggingArchitectsBlogArticle]: https://architectelevator.com/transformation/debugging-architect
 [bddInActionBook]: https://www.oreilly.com/library/view/bdd-in-action/9781617291654
 [softwareEngineeringAtGoogleBook]: https://www.oreilly.com/library/view/software-engineering-at/9781492082781
-[patternsOfEnterpriseApplication ArchitectureBook]: https://www.martinfowler.com/books/eaa.html
+[patternsOfEnterpriseApplicationArchitectureBook]: https://www.martinfowler.com/books/eaa.html
 
 
