@@ -27,7 +27,6 @@
 
 <!--START_SECTION:activity--> 
 
-[A Pattern Language 📚][aPatternLanguageBook]\
 [Design Patterns: Elements of Reusable Object-Oriented Software 📚][designPatternsBook] 
  
 <!--END_SECTION:activity-->
@@ -75,7 +74,6 @@
 [refactoringToPatternsBook]: https://lnkd.in/drqSEqgc
 [refactoringBook]: https://lnkd.in/dcV_-Y5E
 [designPatternsBook]: https://lnkd.in/dgRwD7V8
-[aPatternLanguageBook]: https://lnkd.in/dihPV9XN
 [dddBook]: https://t.co/TafLmskc2Z
 [systemDesignInterviewBookVolumeOne]: https://lnkd.in/dpCzHe6p
 [systemDesignInterviewBookVolumeTwo]: https://lnkd.in/dcS3KdeB
