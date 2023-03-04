@@ -31,7 +31,7 @@
 <!--START_SECTION:activity--> 
 
 [Design Patterns: Elements of Reusable Object-Oriented Software 📚][designPatternsBook]\ 
-[Patterns of Enterprise Application Architecture 📚][patternsOfEnterpriseApplicationBook]
+[Patterns of Enterprise Application Architecture 📚][patternsOfEnterpriseApplicationArchitectureBook]
  
 <!--END_SECTION:activity-->
 
