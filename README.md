@@ -83,6 +83,6 @@
 [continuousArchitectureInPracticeBook]: https://lnkd.in/eCiJx8pd
 [softwareArchitectureFromFundamentalsToTheHardPartsJournalPost]: https://techleadjournal.dev/episodes/120/
 [debuggingArchitectsBlogArticle]: https://architectelevator.com/transformation/debugging-architect
-[bddInActionBook]: https://www.oreilly.com/library/view/bdd-in-action/9781617291654 (https://www.oreilly.com/library/view/bdd-in-action/9781617291654/)/
+[bddInActionBook]: https://www.oreilly.com/library/view/bdd-in-action/9781617291654
 
 
