@@ -65,7 +65,8 @@
 <!--START_SECTION:activity--> 
 
 [Software Architecture: From Fundamentals to the Hard Parts][softwareArchitectureFromFundamentalsToTheHardPartsJournalPost]\
-[Debugging Architects][debuggingArchitectsBlogArticle]
+[Debugging Architects][debuggingArchitectsBlogArticle]\
+[The Software Architect Elevator 📚][theSoftwareArchitectElevatorBook]
  
 <!--END_SECTION:activity-->
 
@@ -100,5 +101,6 @@
 [bddInActionBook]: https://www.oreilly.com/library/view/bdd-in-action/9781617291654
 [softwareEngineeringAtGoogleBook]: https://www.oreilly.com/library/view/software-engineering-at/9781492082781
 [patternsOfEnterpriseApplicationArchitectureBook]: https://www.martinfowler.com/books/eaa.html
+[theSoftwareArchitectElevatorBook]: https://www.oreilly.com/library/view/the-software-architect/9781492077534
 
 
