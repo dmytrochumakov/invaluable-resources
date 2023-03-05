@@ -31,7 +31,8 @@
 <!--START_SECTION:activity--> 
 
 [Design Patterns: Elements of Reusable Object-Oriented Software 📚][designPatternsBook]\
-[Patterns of Enterprise Application Architecture 📚][patternsOfEnterpriseApplicationArchitectureBook]
+[Patterns of Enterprise Application Architecture 📚][patternsOfEnterpriseApplicationArchitectureBook]\
+[Implementation Patterns 📚][implementationPatternsBook]
  
 <!--END_SECTION:activity-->
 
@@ -102,5 +103,6 @@
 [softwareEngineeringAtGoogleBook]: https://www.oreilly.com/library/view/software-engineering-at/9781492082781
 [patternsOfEnterpriseApplicationArchitectureBook]: https://www.martinfowler.com/books/eaa.html
 [theSoftwareArchitectElevatorBook]: https://www.oreilly.com/library/view/the-software-architect/9781492077534
+[implementationPatternsBook]: https://www.oreilly.com/library/view/implementation-patterns/9780321413093
 
 
