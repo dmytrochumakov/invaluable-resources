@@ -49,7 +49,8 @@
 <!--START_SECTION:activity--> 
 
 [System Design Interview – An insider's guide 📚][systemDesignInterviewBookVolumeOne]\
-[System Design Interview – An Insider's Guide: Volume 2 📚][systemDesignInterviewBookVolumeTwo] 
+[System Design Interview – An Insider's Guide: Volume 2 📚][systemDesignInterviewBookVolumeTwo]\
+[Machine Learning System Design Interview 📚][machineLearningSystemDesignInterviewBook]
  
 <!--END_SECTION:activity-->
 
@@ -104,5 +105,6 @@
 [patternsOfEnterpriseApplicationArchitectureBook]: https://www.martinfowler.com/books/eaa.html
 [theSoftwareArchitectElevatorBook]: https://www.oreilly.com/library/view/the-software-architect/9781492077534
 [implementationPatternsBook]: https://www.oreilly.com/library/view/implementation-patterns/9780321413093
+[machineLearningSystemDesignInterviewBook]: https://www.amazon.de/Machine-Learning-System-Design-Interview/dp/1736049127
 
 
