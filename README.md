@@ -74,6 +74,19 @@
 
 </details>
 
+### Event-driven architecture
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[Building Event-Driven Microservice 📚][buildingEventDrivenMicroserviceBook]
+ 
+<!--END_SECTION:activity-->
+
+</details>
+
 ### Engineering
 
 <details>
@@ -106,5 +119,5 @@
 [theSoftwareArchitectElevatorBook]: https://www.oreilly.com/library/view/the-software-architect/9781492077534
 [implementationPatternsBook]: https://www.oreilly.com/library/view/implementation-patterns/9780321413093
 [machineLearningSystemDesignInterviewBook]: https://www.amazon.de/Machine-Learning-System-Design-Interview/dp/1736049127
-
+[buildingEventDrivenMicroserviceBook]: https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/
 
