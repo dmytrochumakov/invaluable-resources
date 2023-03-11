@@ -68,7 +68,8 @@
 
 [Software Architecture: From Fundamentals to the Hard Parts][softwareArchitectureFromFundamentalsToTheHardPartsJournalPost]\
 [Debugging Architects][debuggingArchitectsBlogArticle]\
-[The Software Architect Elevator 📚][theSoftwareArchitectElevatorBook]
+[The Software Architect Elevator 📚][theSoftwareArchitectElevatorBook]\
+[Building Evolutionary Architectures: Support Constant Change 📚][buildingEvolutionaryArchitecturesSupportConstantChangeBook]
  
 <!--END_SECTION:activity-->
 
@@ -120,4 +121,4 @@
 [implementationPatternsBook]: https://www.oreilly.com/library/view/implementation-patterns/9780321413093
 [machineLearningSystemDesignInterviewBook]: https://www.amazon.de/Machine-Learning-System-Design-Interview/dp/1736049127
 [buildingEventDrivenMicroserviceBook]: https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/
-
+[buildingEvolutionaryArchitecturesSupportConstantChangeBook]: https://www.thoughtworks.com/en-gb/insights/books/building-evolutionary-architectures
