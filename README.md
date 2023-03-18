@@ -39,8 +39,18 @@
 </details>
 
 ### Domain-Driven Design
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
 [Domain-Driven Design: Tackling Complexity in the Heart of Software 📚][dddBook]\
 [Implementing Domain-driven Design 📚][implementingDomainDrivenDesignBook]
+
+<!--END_SECTION:activity-->
+
+</details>
 
 ### System Design Interview
 
