@@ -39,7 +39,7 @@
 </details>
 
 ### Domain-Driven Design
-[Domain-Driven Design: Tackling Complexity in the Heart of Software 📚][dddBook]
+[Domain-Driven Design: Tackling Complexity in the Heart of Software 📚][dddBook]\
 [Implementing Domain-driven Design 📚][implementingDomainDrivenDesignBook]
 
 ### System Design Interview
