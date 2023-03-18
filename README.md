@@ -40,6 +40,7 @@
 
 ### Domain-Driven Design
 [Domain-Driven Design: Tackling Complexity in the Heart of Software 📚][dddBook]
+[Implementing Domain-driven Design 📚][implementingDomainDrivenDesignBook]
 
 ### System Design Interview
 
@@ -122,3 +123,4 @@
 [machineLearningSystemDesignInterviewBook]: https://www.amazon.de/Machine-Learning-System-Design-Interview/dp/1736049127
 [buildingEventDrivenMicroserviceBook]: https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/
 [buildingEvolutionaryArchitecturesSupportConstantChangeBook]: https://www.thoughtworks.com/en-gb/insights/books/building-evolutionary-architectures
+[implementingDomainDrivenDesignBook]: https://www.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/
