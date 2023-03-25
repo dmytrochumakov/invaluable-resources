@@ -77,11 +77,12 @@
 
 <!--START_SECTION:activity--> 
 
+[Fundamentals of Software Architecture 📚][fundamentalsOfSoftwareArchitectureBook]\
 [Software Architecture: From Fundamentals to the Hard Parts][softwareArchitectureFromFundamentalsToTheHardPartsJournalPost]\
 [Debugging Architects][debuggingArchitectsBlogArticle]\
 [The Software Architect Elevator 📚][theSoftwareArchitectElevatorBook]\
 [Building Evolutionary Architectures: Support Constant Change 📚][buildingEvolutionaryArchitecturesSupportConstantChangeBook]
- 
+
 <!--END_SECTION:activity-->
 
 </details>
@@ -134,3 +135,4 @@
 [buildingEventDrivenMicroserviceBook]: https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/
 [buildingEvolutionaryArchitecturesSupportConstantChangeBook]: https://www.thoughtworks.com/en-gb/insights/books/building-evolutionary-architectures
 [implementingDomainDrivenDesignBook]: https://www.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/
+[fundamentalsOfSoftwareArchitectureBook]: https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/
