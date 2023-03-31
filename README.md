@@ -7,7 +7,7 @@
 [Test Driven Development: By Example 📚][tddBook]
 
 ### BDD
-[BDD in Action: Behavior-Driven Development for the whole software lifecycle 📚 ][bddInActionBook]
+[BDD in Action: Behavior-Driven Development for the whole software lifecycle 📚][bddInActionBook]
 
 ### Refactoring
 
@@ -78,6 +78,7 @@
 <!--START_SECTION:activity--> 
 
 [Fundamentals of Software Architecture 📚][fundamentalsOfSoftwareArchitectureBook]\
+[Software Architecture in Practice, Third Edition 📚][softwareArchitectureInPracticeBook]\
 [Software Architecture: From Fundamentals to the Hard Parts][softwareArchitectureFromFundamentalsToTheHardPartsJournalPost]\
 [Debugging Architects][debuggingArchitectsBlogArticle]\
 [The Software Architect Elevator 📚][theSoftwareArchitectElevatorBook]\
@@ -107,7 +108,7 @@
 
 <!--START_SECTION:activity--> 
 
-[Software Engineering at Google 📚 ][softwareEngineeringAtGoogleBook]
+[Software Engineering at Google 📚][softwareEngineeringAtGoogleBook]
  
 <!--END_SECTION:activity-->
 
@@ -136,3 +137,4 @@
 [buildingEvolutionaryArchitecturesSupportConstantChangeBook]: https://www.thoughtworks.com/en-gb/insights/books/building-evolutionary-architectures
 [implementingDomainDrivenDesignBook]: https://www.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/
 [fundamentalsOfSoftwareArchitectureBook]: https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/
+[softwareArchitectureInPracticeBook]: https://www.oreilly.com/library/view/software-architecture-in/9780132942799/
