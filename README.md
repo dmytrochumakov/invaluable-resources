@@ -82,7 +82,8 @@
 [Software Architecture: From Fundamentals to the Hard Parts][softwareArchitectureFromFundamentalsToTheHardPartsJournalPost]\
 [Debugging Architects][debuggingArchitectsBlogArticle]\
 [The Software Architect Elevator 📚][theSoftwareArchitectElevatorBook]\
-[Building Evolutionary Architectures: Support Constant Change 📚][buildingEvolutionaryArchitecturesSupportConstantChangeBook]
+[Building Evolutionary Architectures: Support Constant Change 📚][buildingEvolutionaryArchitecturesSupportConstantChangeBook]\
+[Software Architecture: The Hard Parts 📚][softwareArchitectureTheHardPartsBook]
 
 <!--END_SECTION:activity-->
 
@@ -138,3 +139,4 @@
 [implementingDomainDrivenDesignBook]: https://www.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/
 [fundamentalsOfSoftwareArchitectureBook]: https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/
 [softwareArchitectureInPracticeBook]: https://www.oreilly.com/library/view/software-architecture-in/9780132942799/
+[softwareArchitectureTheHardPartsBook]: https://www.oreilly.com/library/view/software-architecture-the/9781492086888/
