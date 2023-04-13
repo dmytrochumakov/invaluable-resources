@@ -116,6 +116,19 @@
 
 </details>
 
+### Continuous Integration
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[Continuous Integration: Improving Software Quality and Reducing Risk 📚][continuousIntegrationImprovingSoftwareQualityAndReducingRiskBook]
+ 
+<!--END_SECTION:activity-->
+
+</details>
+
 ### Continuous Delivery
 
 <details>
@@ -157,3 +170,4 @@
 [cleanArchitectureACraftsmansGuideToSoftwareStructureAndDesignBook]: https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/
 [modernSoftwareEngineeringDoingWhatWorksToBuildBetterSoftwareFasterBook]: https://www.oreilly.com/library/view/modern-software-engineering/9780137314942/
 [continuousDeliveryReliableSoftwareReleasesThroughBuildTestAndDeploymentAutomationBook]: https://www.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/
+[continuousIntegrationImprovingSoftwareQualityAndReducingRiskBook]: https://www.oreilly.com/library/view/continuous-integration-improving/9780321336385/
