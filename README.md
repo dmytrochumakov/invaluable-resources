@@ -116,6 +116,19 @@
 
 </details>
 
+### Continuous Delivery
+
+<details>
+ <summary></summary>
+
+<!--START_SECTION:activity--> 
+
+[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation 📚][continuousDeliveryReliableSoftwareReleasesThroughBuildTestAndDeploymentAutomationBook]
+ 
+<!--END_SECTION:activity-->
+
+</details>
+
 -------------------------------------------------------------------------------- 
 
 [cleanAgileBook]: https://lnkd.in/dTNr6577
@@ -143,3 +156,4 @@
 [softwareArchitectureTheHardPartsBook]: https://www.oreilly.com/library/view/software-architecture-the/9781492086888/
 [cleanArchitectureACraftsmansGuideToSoftwareStructureAndDesignBook]: https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/
 [modernSoftwareEngineeringDoingWhatWorksToBuildBetterSoftwareFasterBook]: https://www.oreilly.com/library/view/modern-software-engineering/9780137314942/
+[continuousDeliveryReliableSoftwareReleasesThroughBuildTestAndDeploymentAutomationBook]: https://www.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/
