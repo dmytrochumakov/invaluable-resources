@@ -109,7 +109,8 @@
 
 <!--START_SECTION:activity--> 
 
-[Software Engineering at Google 📚][softwareEngineeringAtGoogleBook]
+[Software Engineering at Google 📚][softwareEngineeringAtGoogleBook]\
+[Modern Software Engineering: Doing What Works to Build Better Software Faster 📚][modernSoftwareEngineeringDoingWhatWorksToBuildBetterSoftwareFasterBook]
  
 <!--END_SECTION:activity-->
 
@@ -141,3 +142,4 @@
 [softwareArchitectureInPracticeBook]: https://www.oreilly.com/library/view/software-architecture-in/9780132942799/
 [softwareArchitectureTheHardPartsBook]: https://www.oreilly.com/library/view/software-architecture-the/9781492086888/
 [cleanArchitectureACraftsmansGuideToSoftwareStructureAndDesignBook]: https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/
+[modernSoftwareEngineeringDoingWhatWorksToBuildBetterSoftwareFasterBook]: https://www.oreilly.com/library/view/modern-software-engineering/9780137314942/
