@@ -76,7 +76,7 @@
  <summary></summary>
 
 <!--START_SECTION:activity--> 
-
+[Clean Architecture: A Craftsman’s Guide to Software Structure and Design 📚][cleanArchitectureACraftsmansGuideToSoftwareStructureAndDesignBook]\
 [Fundamentals of Software Architecture 📚][fundamentalsOfSoftwareArchitectureBook]\
 [Software Architecture in Practice, Third Edition 📚][softwareArchitectureInPracticeBook]\
 [Software Architecture: From Fundamentals to the Hard Parts][softwareArchitectureFromFundamentalsToTheHardPartsJournalPost]\
@@ -140,3 +140,4 @@
 [fundamentalsOfSoftwareArchitectureBook]: https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/
 [softwareArchitectureInPracticeBook]: https://www.oreilly.com/library/view/software-architecture-in/9780132942799/
 [softwareArchitectureTheHardPartsBook]: https://www.oreilly.com/library/view/software-architecture-the/9781492086888/
+[cleanArchitectureACraftsmansGuideToSoftwareStructureAndDesignBook]: https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/
