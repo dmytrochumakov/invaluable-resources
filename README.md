@@ -77,6 +77,7 @@
 
 <!--START_SECTION:activity--> 
 [Clean Architecture: A Craftsman’s Guide to Software Structure and Design 📚][cleanArchitectureACraftsmansGuideToSoftwareStructureAndDesignBook]\
+[Software Architecture for Developers 📚][softwareArchitectureForDevelopersBook]\
 [Fundamentals of Software Architecture 📚][fundamentalsOfSoftwareArchitectureBook]\
 [Software Architecture in Practice, Third Edition 📚][softwareArchitectureInPracticeBook]\
 [Software Architecture: From Fundamentals to the Hard Parts][softwareArchitectureFromFundamentalsToTheHardPartsJournalPost]\
@@ -171,3 +172,4 @@
 [modernSoftwareEngineeringDoingWhatWorksToBuildBetterSoftwareFasterBook]: https://www.oreilly.com/library/view/modern-software-engineering/9780137314942/
 [continuousDeliveryReliableSoftwareReleasesThroughBuildTestAndDeploymentAutomationBook]: https://www.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/
 [continuousIntegrationImprovingSoftwareQualityAndReducingRiskBook]: https://www.oreilly.com/library/view/continuous-integration-improving/9780321336385/
+[softwareArchitectureForDevelopersBook]: https://leanpub.com/software-architecture-for-developers
